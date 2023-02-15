@@ -1,0 +1,18 @@
+.HelpRequired{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    height: 50vh;
+    background: white;
+    width: 95%;
+    margin: 20px auto;
+    text-align: center;
+}
+.HelpRequired button{
+    padding: 15px 60px;
+    margin: 30px;
+    color: azure;
+    background-color:#100DB1 ;
+    border-radius: 20px;
+}

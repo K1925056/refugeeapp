@@ -1,0 +1,21 @@
+li>a{
+    text-decoration: none;
+    color: black;
+}
+li{
+    padding: 25px 15px;
+}
+.NavLogo{
+    width: 200px;
+    justify-content: center;
+    background-color: white;
+    padding: 20px;
+}
+.search-container{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+.logo-container{
+    width: 30%
+}

@@ -1,0 +1,46 @@
+.SignupPage{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.SignupPage h3, img{
+    text-align: center;
+}
+.SignupForm{
+    width: 300PX;
+    background-color: white;
+    padding: 50px;
+    border-radius: 15px;
+}
+.SignupForm input{
+ 
+    border-radius: 15px;
+    height: 20px;
+    opacity: 50%; 
+}
+.SignupForm >input,.SignupForm>label{
+    margin: 20px 0;
+    width: 100%;
+
+}
+.logoform{
+    width:50%;
+}
+.logocont{
+    text-align: center;
+}
+input.checkbox{
+    display: inline-block;
+}
+#checkbox{
+    width: 0;
+}
+.SignupPage button{
+    padding: 15px 50px;
+    margin: 15px 0;
+    color: azure;
+    background-color:#100DB1 ;
+    border-radius: 20px;
+    width: 100%;
+}
